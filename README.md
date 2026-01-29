@@ -480,6 +480,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ using Free & Open Source Technologies**
+ ##  Application 
 
-*Last Updated: January 2026*
+<img width="1763" height="897" alt="Screenshot 2026-01-29 094735" src="https://github.com/user-attachments/assets/b5a2d3ba-e9e5-458d-89a9-1d5b7902eb49" />
+
+
